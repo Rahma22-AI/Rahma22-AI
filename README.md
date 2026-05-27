@@ -2,7 +2,7 @@
 
 # 👩‍💻 Rahma Hamdy
 
-**AI Engineering Student · Programmer · Game Developer**
+**AI Engineer · Programmer · Game Developer**
 
 *Building AI that thinks, heals, and creates impact.*
 
@@ -67,11 +67,6 @@ Personalized, context-aware recommendations that actually feel relevant — not 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
-**Backend & Web**
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-
 **Game Dev & 3D**
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
@@ -87,7 +82,8 @@ Personalized, context-aware recommendations that actually feel relevant — not 
 ├── Advanced Deep Learning
 ├── AI for Games
 ├── Software Engineering
-├── Backend Development
+├── Natural Language Processing
+├── Advanced Machine Learning
 └── Computer Vision
 ```
 
