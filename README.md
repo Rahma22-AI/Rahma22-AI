@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👩‍💻 Rahma Hamdy
+# 👩‍💻 Hey , I'm Rahma Hamdy Yassin
 
 **AI Engineer · Programmer · Game Developer**
 
